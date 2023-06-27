@@ -1468,7 +1468,7 @@ class frame {
 });
   }
   data() { return this.d }
-  name(){  return "frame" }
+  name(){  return "0" }
 }
 
 function init() {
